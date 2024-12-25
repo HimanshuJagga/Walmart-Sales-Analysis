@@ -94,7 +94,7 @@ How to Use This Project
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/Walmart-Sales-Analysis.git
+git clone https://github.com/HimanshuJagga/Walmart-Sales-Analysis.git
 Import the provided dataset (walmartsales.csv) into your MySQL database.
 Execute the SQL queries provided in the SQL Scripts folder.
 Review the PowerPoint presentation for a summary of results.
